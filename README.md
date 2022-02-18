@@ -3,10 +3,10 @@
 <h2 align="center">About me</h2>
 <p align="center">"- ⚡ Quick bio:      An normal guy that likes to game a lot and watch anime in my free time,<br>
 		🔭 I’m currently working on:      Studying WebDev at Trybe,<br>
-		🌱 I’m currently learning:        HTML,CSS,JavaScript and REACT and sharpening my soft skills),<br>
+		🌱 I’m currently learning:       REACT and TypeScript and sharpening my soft skills,<br>
 		🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,<br>
 		💬 Ask me about:                  Anything i love chatting and learning new things,<br>
-	  📫 How to reach me:              https://github.com/killu4kun/killu4kun<br>
+	  	📫 How to reach me:              https://github.com/killu4kun/killu4kun<br>
 </p>
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -26,6 +26,8 @@
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
