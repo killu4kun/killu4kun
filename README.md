@@ -6,7 +6,7 @@
 		🌱 I’m currently learning:       REACT and TypeScript and sharpening my soft skills,<br>
 		🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,<br>
 		💬 Ask me about:                  Anything i love chatting and learning new things,<br>
-	  	📫 How to reach me:              https://github.com/killu4kun/killu4kun<br>
+	  	📫 How to reach me:             https://www.linkedin.com/in/mateeus-soarees/<br>
 </p>
 
 <h2 align="center">You can reach me at :alien:</h2>
