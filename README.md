@@ -1,9 +1,9 @@
 # Matheus Soares
 
 <h2 align="center">About me</h2>
-<p align="center">"- ⚡ Quick bio:      An normal guy that likes to game a lot and watch anime in my free time,<br>
-		🔭 I’m currently working on:      Studying WebDev at Trybe,<br>
-		🌱 I’m currently learning:       REACT and TypeScript and sharpening my soft skills,<br>
+<p align="center">⚡ Quick bio:      An normal guy that likes to game a lot and watch anime in my free time,<br>
+		🔭 I’m currently working on:    Looking for a job,<br>
+		🌱 I’m currently learning:       REACT,TypeScript and React Native & sharpening my soft skills,<br>
 		🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,<br>
 		💬 Ask me about:                  Anything i love chatting and learning new things,<br>
 	  	📫 How to reach me:             https://www.linkedin.com/in/mateeus-soarees/<br>
