@@ -28,7 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img src='https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.html'>
+  <img src='https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg'>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
