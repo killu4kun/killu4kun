@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a job <br>🤝 I’m looking for help with React and Angular<br>🌱 I’m currently learning React and Angular<br>💬 Ask me about<br>⚡ Fun fact : I was a professional gamer :)
+🔭 I’m currently working as a FrontEnd Software Engineer <br>🤝 I work with React and Angular <br>💬 Ask me about anything <br>⚡ Fun fact : I was a professional gamer :)
 
 
 ## 🌐 Socials:
